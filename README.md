@@ -1,1 +1,1 @@
-# Conway-s-game-of-life
+My implementation of conway's game of life
